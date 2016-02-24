@@ -267,7 +267,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url("https://pixelgrade.com/demos/listable/wp-content/uploads/2015/10/listable-hero-video.mp4?_=1");
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
