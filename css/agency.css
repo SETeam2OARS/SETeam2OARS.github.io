@@ -190,7 +190,6 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
-     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.8);
 }
 
 .navbar-default .navbar-toggle {
