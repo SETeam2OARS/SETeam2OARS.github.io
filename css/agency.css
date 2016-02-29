@@ -126,6 +126,46 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
+.btn-airbnb:hover,
+.btn-airbnb:focus,
+.btn-airbnb:active,
+.btn-airbnb.active,
+.open .dropdown-toggle.btn-airbnb {
+    border-color: #f6bf01;
+    color: #fff;
+    background-color: #fec503;
+}
+
+.btn-airbnb:active,
+.btn-airbnb.active,
+.open .dropdown-toggle.btn-airbnb {
+    background-image: none;
+}
+
+.btn-airbnb.disabled,
+.btn-airbnb[disabled],
+fieldset[disabled] .btn-airbnb,
+.btn-airbnb.disabled:hover,
+.btn-airbnb[disabled]:hover,
+fieldset[disabled] .btn-airbnb:hover,
+.btn-airbnb.disabled:focus,
+.btn-airbnb[disabled]:focus,
+fieldset[disabled] .btn-airbnb:focus,
+.btn-airbnb.disabled:active,
+.btn-airbnb[disabled]:active,
+fieldset[disabled] .btn-airbnb:active,
+.btn-airbnb.disabled.active,
+.btn-airbnb[disabled].active,
+fieldset[disabled] .btn-airbnb.active {
+    border-color: #f16664;
+    background-color: #f16664;
+}
+
+.btn-airbnb .badge {
+    color: #f16664;
+    background-color: #fff;
+}
+
 .btn-xl {
     padding: 20px 40px;
     border-color: #f16664;
