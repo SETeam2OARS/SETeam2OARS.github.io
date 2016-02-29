@@ -187,7 +187,7 @@ fieldset[disabled] .btn-xl.active {
     text-transform: uppercase;
     /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,cursive;
-    color: #f16664;
+    color: #fed136;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -202,8 +202,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: #f16664;
+    background-color: #f16664;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
